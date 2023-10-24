@@ -36,3 +36,4 @@ Cependant, bien que cette feature soit importante, elle ne me semblait pas assez
 ### Deuxième feature
 
 J'ai implémenté un système d'envoie de mail lorsque une adresse mail est précisée dans les données d'un utilisateur. Cette fonctionnalité pourrait être utilisée pour signaler à une personne qu'il a été ajouté à un projet par exemple.
+J'ai utilisé un serveur mail de test pour implémenter cette fonctionnalité. Pour que le mail soit envoyé, il faudrait utiliser un service de messagerie réel ou un fournisseur.
